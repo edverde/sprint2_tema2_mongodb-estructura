@@ -1,0 +1,45 @@
+// clients (db.collection.insertMany())
+
+//id's gen:
+
+[
+    {
+    "nom":"eduard_valls_roca",
+    "direccio":{"carrer":"anselm_clave",
+                "numero":13,
+                "cp":08902,
+                "ciutat":"hospialet",
+                "pais":"espanya"},
+    "telefon":"685614815",
+    "e_mail":"eduardvr83@gmail.com",
+    "client_recomenat":""
+},
+
+{
+    "nom":"cristina_valls_roca",
+    "direccio":{"carrer":"angel_guimera",
+                "numero":45,
+                "cp":08902,
+                "ciutat":"hospialet",
+                "pais":"espanya"},
+    "telefon":"625654915",
+    "e_mail":"cristina_75@gmail.com",
+    "client_recomenat": "ObjectId('6267adbf7f739f1f929ad37f')"
+},
+
+{
+    "nom":"francisco_gimenez_ruiz",
+    "direccio":{"carrer":"gran",
+                "numero":145,
+                "cp":08924,
+                "ciutat":"santa_coloma",
+                "pais":"espanya"},
+    "telefon":"625354715",
+    "e_mail":"feangiru_76@gmail.com",
+    "client_recomenat":""
+}
+]
+
+ObjectId("626a6a1a0b09d07775de63b5")
+ObjectId("626a6a1a0b09d07775de63b6")
+ObjectId("626a6a1a0b09d07775de63b7")

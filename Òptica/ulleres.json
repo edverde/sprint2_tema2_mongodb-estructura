@@ -1,0 +1,40 @@
+//ulleres
+[
+{
+    "marca:":"rayban_wayfarer",
+    "graduacio_ull_dret":"2",
+    "graduacio_ull_esquerra":"2",
+    "tipo_montura":["flotant","pasta","metallica"],
+    "color_montura":"negre",
+    "color_vidre":"normal",
+    "preu":250,
+    "proveidor_id": ObjectId("6267a9357f739f1f929ad37b")
+},
+
+{
+    "marca:":"rayban_aviator",
+    "graduacio_ull_dret":"4",
+    "graduacio_ull_esquerra":"4",
+    "tipo_montura":["flotant","pasta","metallica"],
+    "color_montura":"negre",
+    "color_vidre":"fosc",
+    "preu":90,
+    "proveidor_id": ObjectId("6267a9527f739f1f929ad37c")
+
+},
+
+{
+    "marca:":"persol",
+    "graduacio_ull_dret":"2",
+    "graduacio_ull_esquerra":"2",
+    "tipo_montura":["flotant","pasta","metallica"],
+    "color_montura":"negre",
+    "color_vidre":"normal",
+    "preu":300,
+    "proveidor_id": ObjectId("6267a99f7f739f1f929ad37d")
+}
+]
+
+ObjectId("626d05826db7a5df8b01fd01"),
+ObjectId("626d05826db7a5df8b01fd02"),
+ObjectId("626d05826db7a5df8b01fd03")

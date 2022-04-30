@@ -1,0 +1,51 @@
+//proveidors
+
+[
+{
+    "nom":"llibert_valls_amigo",
+    "direccio":{"carrer":"ramon_y_cajal",
+                "numero":101,
+                "pis": "2-2",
+                "porta":0,
+                "cp":08902,
+                "ciutat":"hospialet",
+                "pais":"espanya"},
+    "telefon":"685614515",
+    "fax":"456489556",
+    "nif":"44559988-R",
+    "marcas":["rayban","carolina_herrera","persol","dolce_gabbana"]
+},
+
+{
+    "nom":"maria_roca_sancho",
+    "direccio":{"carrer":"ramon_y_cajal",
+                "numero":101,
+                "pis": "2-2",
+                "porta":0,
+                "cp":08902,
+                "ciutat":"hospialet",
+                "pais":"espanya"},
+    "telefon":"685613815",
+    "fax":"452489456",
+    "nif":"44887799-T",
+    "marcas":["rayban","persol","dolce_gabbana"]
+},
+
+{
+    "nom":"daniel_gallego_ruiz",
+    "direccio":{"carrer":"sancho_de_avila",
+                "numero":10,
+                "pis": "2-1",
+                "porta":0,
+                "cp":08907,
+                "ciutat":"hospialet",
+                "pais":"espanya"},
+    "telefon":"685613814",
+    "fax":"422489457",
+    "nif":"44883799-j",
+    "marcas":"rayban"
+}
+]
+ObjectId("6267a9357f739f1f929ad37b")
+ObjectId("6267a9527f739f1f929ad37c")
+ObjectId("6267a99f7f739f1f929ad37d")

@@ -1,0 +1,35 @@
+//vendas
+[
+    {
+        "nom_venedor":"Ana_rodriguez",
+        "data_venda":"2021-06-21",
+        "client_id":ObjectId("626a6a1a0b09d07775de63b5"),
+        "ulleres_id": ObjectId("626d05826db7a5df8b01fd01")
+        
+    },
+    {
+        "nom_venedor":"laura_Rodriguez",
+        "data_venda":"2021-06-21",
+        "client_id":ObjectId("626a6a1a0b09d07775de63b6")
+        ,
+        "ulleres_id": ObjectId("626d05826db7a5df8b01fd02")
+    },
+    {
+        "nom_venedor":"jon_pichel",
+        "data_venda":"2021-06-21",
+        "client_id":ObjectId("626a6a1a0b09d07775de63b7"),
+        "ulleres_id": ObjectId("626d05826db7a5df8b01fd03")
+    }
+]
+
+
+
+// ulleres id
+// ObjectId("626d05826db7a5df8b01fd01"),
+// ObjectId("626d05826db7a5df8b01fd02"),
+// ObjectId("626d05826db7a5df8b01fd03")
+
+clients id
+ObjectId("626a6a1a0b09d07775de63b5")
+ObjectId("626a6a1a0b09d07775de63b6")
+ObjectId("626a6a1a0b09d07775de63b7")

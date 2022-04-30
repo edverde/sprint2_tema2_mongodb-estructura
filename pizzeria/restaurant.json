@@ -1,0 +1,52 @@
+
+[
+    {
+    "nom":"kobuta ramen",
+    "direccio":{"carrer":"muns",
+                "numero":13,
+                "cp":08902,
+                "ciutat":"hospialet",
+                "pais":"espanya"},
+    "telefon":"685614815",
+    "treballador":["cuiner","repartidor"],
+    "localitat_id":ObjectId("626d20e03eeb08a83255e7c1")
+    },
+    {
+        "nom":"chao cho chin",
+        "direccio":{"carrer":"cagar",
+                    "numero":13,
+                    "cp":08909,
+                    "ciutat":"cronella",
+                    "pais":"espanya"},
+        "telefon":"685636815",
+        "treballador":["cuiner","repartidor"],
+        "localitat_id":ObjectId("626d20e03eeb08a83255e7c4")
+    },
+    {
+        "nom":"maur",
+        "direccio":{"carrer":"muns",
+                    "numero":13,
+                    "cp":08902,
+                    "ciutat":"tarragona",
+                    "pais":"espanya"},
+        "telefon":"685614815",
+        "treballador":["cuiner","repartidor"],
+        "localitat_id":ObjectId("626d20e03eeb08a83255e7c3")
+    },
+    {
+        "nom":"si tu cardes jo cardo",
+        "direccio":{"carrer":"motor",
+                    "numero":123,
+                    "cp":18902,
+                    "ciutat":"fornells",
+                    "pais":"espanya"},
+        "telefon":"685614816",
+        "treballador":["cuiner","repartidor"],
+        "localitat_id":ObjectId("626d20e03eeb08a83255e7c2")
+    }
+]
+
+ObjectId("626d24d13eeb08a83255e7c9")
+ObjectId("626d24d13eeb08a83255e7ca")
+ObjectId("626d24d13eeb08a83255e7cb")
+ObjectId("626d24d13eeb08a83255e7cc")

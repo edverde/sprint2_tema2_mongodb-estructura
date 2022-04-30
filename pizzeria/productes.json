@@ -1,0 +1,40 @@
+[
+    {
+    "tipo_producte_id":ObjectId("626d26723eeb08a83255e7cd"),
+    "nom":"usa burguer",
+    "descripcio":"burguer ultra fanegas",
+    "imatge":"fanegas.jpg",
+    "preu":10,
+    "quantitat":2
+},
+{
+    "tipo_producte_id":ObjectId("626d26723eeb08a83255e7ce"),
+    "nom":"birra",
+    "descripcio":"birraca artesana",
+    "imatge":"birra.jpg",
+    "preu":4.5,
+    "quantitat":1
+},
+{
+    "tipo_producte_id":ObjectId("626d26723eeb08a83255e7cf"),
+    "nom":"pizza kk",
+    "descripcio":"el senyor mojon",
+    "imatge":"mojon.jpg",
+    "preu":12,
+    "quantitat":1
+},
+{
+    "tipo_producte_id":ObjectId("626d26723eeb08a83255e7cd"),
+    "nom":"smash burguer",
+    "descripcio":"burguer ultra fanegas pero smash",
+    "imatge":"fanegas2.jpg",
+    "preu":12,
+    "quantitat":1
+}
+]
+
+id comandes
+ObjectId("626d2a443eeb08a83255e7d4"),
+ObjectId("626d2a443eeb08a83255e7d5"),
+ObjectId("626d2a443eeb08a83255e7d6"),
+ObjectId("626d2a443eeb08a83255e7d7")

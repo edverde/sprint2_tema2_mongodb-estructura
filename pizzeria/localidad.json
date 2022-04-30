@@ -1,0 +1,25 @@
+
+[
+    {
+    "nom":"Hospitalet de llobregat",
+    "provincia":"barcelona"
+},
+{
+    "nom":"fornells",
+    "provincia":"girona"
+},
+{
+    "nom":"cambrils",
+    "provincia":"tarragona"
+},
+{
+    "nom":"cornella",
+    "provincia":"barcelona"
+}
+]
+
+id localitats
+ObjectId("626d20e03eeb08a83255e7c1") LH
+ObjectId("626d20e03eeb08a83255e7c2") Fornells
+ObjectId("626d20e03eeb08a83255e7c3") Cambrils
+ObjectId("626d20e03eeb08a83255e7c4") Cornella

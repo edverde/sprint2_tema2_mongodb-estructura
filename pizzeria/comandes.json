@@ -1,0 +1,20 @@
+[
+    {
+        "data_comanda": new Date ("30/04/2022 14:19:10"),
+        "cliente_id": ObjectId("626d22e33eeb08a83255e7c7"),
+        "restaurant_id":ObjectId("626d24d13eeb08a83255e7cb"),
+        "producte_id":ObjectId("626d26723eeb08a83255e7cd"),
+        "precioTotal" : 16.98
+    },
+    {
+        "data_comanda": new Date ("30/04/2022 14:19:10"),
+        "cliente_id": ObjectId("626d22e33eeb08a83255e7c7"),
+        "restaurant_id":ObjectId("626d24d13eeb08a83255e7cb"),
+        "producte_id":ObjectId("626d26723eeb08a83255e7ce"),
+        "precioTotal" : 16.98
+    }
+]
+
+
+ObjectId("626d2d383eeb08a83255e7da"),
+                ObjectId("626d2d383eeb08a83255e7db")

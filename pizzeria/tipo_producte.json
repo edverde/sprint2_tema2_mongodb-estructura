@@ -1,0 +1,16 @@
+[
+    {
+        "nom":"burguer"
+    },
+    {
+        "nom":"beguda"
+    },
+    {
+        "nom":"pizza",
+        "categoria":["hivern","estiu","primavera","tardor"]
+    }
+]
+
+ObjectId("626d26723eeb08a83255e7cd") burguer
+ObjectId("626d26723eeb08a83255e7ce") beguda
+ObjectId("626d26723eeb08a83255e7cf") pizza

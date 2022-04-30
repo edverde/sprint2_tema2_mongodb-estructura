@@ -1,0 +1,58 @@
+
+[
+    {
+    "nom":"eduard",
+    "cognoms":"valls roca",
+    "direccio":{"carrer":"anselm_clave",
+                "numero":13,
+                "pis":"segon",
+                "cp":08902,
+                "ciutat":"hospialet",
+                "pais":"espanya"},
+    "telefon":"685614815",
+    "localitat_id": ObjectId("626d20e03eeb08a83255e7c1")
+    },
+    {
+        "nom":"eduard",
+        "cognoms":"valls roca",
+        "direccio":{"carrer":"anselm_clave",
+                    "numero":13,
+                    "pis":"segon",
+                    "cp":08902,
+                    "ciutat":"girona",
+                    "pais":"espanya"},
+        "telefon":"685614815",
+        "localitat_id": ObjectId("626d20e03eeb08a83255e7c2")
+    },
+    {
+        "nom":"eduard",
+        "cognoms":"valls roca",
+        "direccio":{"carrer":"anselm_clave",
+                    "numero":13,
+                    "pis":"segon",
+                    "cp":08902,
+                    "ciutat":"cambrils",
+                    "pais":"espanya"},
+        "telefon":"685614815",
+        "localitat_id": ObjectId("626d20e03eeb08a83255e7c3")
+    },
+    {
+        "nom":"eduard",
+        "cognoms":"valls roca",
+        "direccio":{"carrer":"anselm_clave",
+                    "numero":13,
+                    "pis":"segon",
+                    "cp":08902,
+                    "ciutat":"cornella",
+                    "pais":"espanya"},
+        "telefon":"685614815",
+        "localitat_id": ObjectId("626d20e03eeb08a83255e7c4")
+    }
+]
+
+clients ID
+
+ObjectId("626d22e33eeb08a83255e7c5"),
+ObjectId("626d22e33eeb08a83255e7c6"),
+ObjectId("626d22e33eeb08a83255e7c7"),
+ObjectId("626d22e33eeb08a83255e7c8")
